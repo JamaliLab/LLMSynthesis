@@ -8,7 +8,7 @@ This repository contains the dataset and analysis notebook associated with the a
 ## Contents
 
 * `plate_spectra.xlsx` — UV–vis absorbance spectra collected from the high-throughput experiments. The workbook contains one sheet for each experimental run.
-* `figure1_and_figure2.ipynb` — Jupyter notebook used to process the spectral data and generate Figures 1 and 2.
+* `Notebook_LLMSynthesis.ipynb` — Jupyter notebook used to process the spectral data and generate Figures 1 and 2.
 
 ## Figure 1
 
@@ -29,7 +29,7 @@ The analysis parameters and spectral windows used to generate the panels are spe
 
 ## Running the Analysis
 
-Place `plate_spectra.xlsx` and `figure1_and_figure2.ipynb` in the same directory and run the notebook from beginning to end.
+Place `plate_spectra.xlsx` and `Notebook_LLMSynthesis.ipynb` in the same directory and run the notebook from beginning to end.
 
 The analysis requires Python and the following packages:
 
@@ -51,5 +51,5 @@ The notebook generates the figures as both PNG and PDF files.
 
 ## Reproducibility
 
-All quantities shown in Figures 1 and 2 are calculated directly from the provided spectral dataset. No additional experimental data are required to reproduce these figures.
+All quantities shown in Figures are calculated directly from the provided spectral dataset. No additional experimental data are required to reproduce these figures.
 
