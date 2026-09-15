@@ -1,4 +1,4 @@
-<p align="center"> <img src="banner.png" alt="LLM for High-throughput Nanoparticle Synthesis" width="4%"> </p>
+<p align="center"> <img src="banner.png" alt="LLM for High-throughput Nanoparticle Synthesis" width="40%"> </p>
 
 # LLM for High-throughput Nanoparticle Synthesis
 Anonymous github page for LLM Synthesis project
