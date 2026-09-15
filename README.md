@@ -1,4 +1,4 @@
-# LLM Synthesis
+# LLM for High-throughput Nanoparticle Synthesis
 Anonymous github page for LLM Synthesis project
 
 # Code and Data for Reproducing Figures 1 and 2
