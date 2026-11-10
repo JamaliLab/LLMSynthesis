@@ -64,7 +64,7 @@ If you are using this code/data/result, please reference our paper:
   title={Multimodal LLM-Assisted Diagnosis of Cryptic Failure Modes in High-Throughput Experimentation: A Case Study in Gold Nanorod Synthesis},
   author={Patel, Riya and Briceno, Gabriela and Aghazadeh, Amirali and Jamali, Vida},
   year={2026}
- journal={NeurIPS, AI for Accelarated Materials Design (AI4Mat) Workshop
+ journal={NeurIPS, AI for Accelerated Materials Discovery (AI4Mat) Workshop
 }
 ```
 ```
