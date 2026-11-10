@@ -55,3 +55,28 @@ The notebook generates the figures as both PNG and PDF files.
 
 All quantities shown in Figures are calculated directly from the provided spectral dataset. No additional experimental data are required to reproduce these figures.
 
+
+## Citation
+
+If you are using this code/data/result, please reference our paper:
+```
+@article{patel2026multimodal,
+  title={Multimodal LLM-Assisted Diagnosis of Cryptic Failure Modes in High-Throughput Experimentation: A Case Study in Gold Nanorod Synthesis},
+  author={Patel, Riya and Briceno, Gabriela and Aghazadeh, Amirali and Jamali, Vida},
+  year={2026}
+ journal={NeurIPS, AI for Accelarated Materials Design (AI4Mat) Workshop
+}
+```
+```
+@article{
+doi:10.26434/chemrxiv.15009205/v1,
+author = {Riya Patel  and Gabriela Briceno  and Amirali Aghazadeh  and Vida Jamali },
+title = {Multimodal LLM-Assisted Diagnosis of Cryptic Failure Modes in High-Throughput Experimentation: A Case Study in Gold Nanorod Synthesis},
+journal = {ChemRxiv},
+volume = {2026},
+number = {0921},
+pages = {},
+year = {2026},
+doi = {10.26434/chemrxiv.15009205/v1}
+}
+```    
